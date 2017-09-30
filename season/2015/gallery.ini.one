@@ -1,0 +1,335 @@
+<?php
+
+$gallery = array(
+             "20141105" => array(
+               "(BMCOSWW)511" => array(
+                 "DSC01479c_zpsdc6a31c5.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01479c_zpsdc6a31c5.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " blue spangle cinnamon"
+                 ),
+               ),
+               "(HHLT483)?" => array(
+                 "DSC01466c_zps52c8ede2.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01466c_zps52c8ede2.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey cinnamon"
+                 ),
+               ),
+               "(BMCOSWW)?" => array(
+                 "DSC01464c_zpsa986f40e.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01464c_zpsa986f40e.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey cinnamon"
+                 ),
+                 "DSC01458c_zps33cd20c6.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01458c_zps33cd20c6.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " blue cinnamon"
+                 ),
+               ),
+               "(HHLT483)514" => array(
+                 "DSC01453c_zpsa74d7a1c.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01453c_zpsa74d7a1c.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey green cinnamon"
+                 ),
+               ),
+               "(HHLT483)?" => array(
+                 "DSC01452c_zps36fcf86d.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01452c_zps36fcf86d.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey cinnamon"
+                 ),
+               ),
+             ),
+             "20141104" => array(
+               "(BMCOSWW)?" => array(
+                 "IMG-20141104-00710_zpss5fogpoi.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/IMG-20141104-00710_zpss5fogpoi.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " blue cinnamon"
+                 ),
+               ),
+             ),
+             "20141103" => array(
+               "(BMCOSWW)" => array(
+                 "IMG-20141103-00709_zps8dd30ab5.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/IMG-20141103-00709_zps8dd30ab5.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => "511 blue spangle cinnamon"
+                 ),
+                 "IMG-20141103-00699_zps07af2ea7.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/IMG-20141103-00699_zps07af2ea7.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => "511 blue spangle cinnamon"
+                 ),
+               ),
+             ),
+             "20141102" => array(
+               "(BMCOSWW)511" => array(
+                 "DSC01445c_zps59087a56.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01445c_zps59087a56.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " blue spangle cinnamon"
+                 ),
+               ),
+               "Two baby" => array(
+                 "DSC01438c_zpsf4f86fdd.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01438c_zpsf4f86fdd.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey cinnamons"
+                 ),
+               ),
+               "(BMCOSWW)?" => array(
+                 "DSC01426c_zpsfaa187dc.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015/DSC01426c_zpsfaa187dc.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " blue cinnamon"
+                 ),
+               ),
+             ),
+             "20141026" => array(
+               "Chicks" => array(
+                 "DSC01425_zps01ab10c0.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01425_zps01ab10c0.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 16"
+                 ),
+                 "DSC01424_zpsd787e43d.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01424_zpsd787e43d.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 16"
+                 ),
+                 "DSC01423_zpsacd0fec3.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01423_zpsacd0fec3.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 16"
+                 ),
+                 "DSC01422_zps8cec9852.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01422_zps8cec9852.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 16"
+                 ),
+                 "DSC01421_zps33c75237.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01421_zps33c75237.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 13"
+                 ),
+                 "DSC01420_zps77e9fc91.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01420_zps77e9fc91.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 13"
+                 ),
+                 "DSC01419_zpsfbbaf343.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01419_zpsfbbaf343.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " box 13"
+                 ),
+               ),
+               "(WDGI408)506" => array(
+                 "DSC01416_zps3b5390e6.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01416_zps3b5390e6.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " new grey green hen for pair 3."
+                 ),
+               ),
+               "(WDGPC405)480" => array(
+                 "DSC01414_zps28497bc0.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01414_zps28497bc0.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " new grey cock for pair 6."
+                 ),
+                 "DSC01412_zps7d6e749c.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01412_zps7d6e749c.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " new grey cock for pair 6."
+                 ),
+               ),
+             ),
+             "20141001" => array(
+               "First" => array(
+                 "IMG_20141001_223345_zpszwjkiwtt.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG_20141001_223345_zpszwjkiwtt.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " of 2015!"
+                 ),
+               ),
+             ),
+             "20140925" => array(
+               "New first pair:" => array(
+                 "DSC01366_zpsdaab2d44.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01366_zpsdaab2d44.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " BVCO cobalt cock"
+                 ),
+                 "DSC01364_zps0e366d3a.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01364_zps0e366d3a.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " WDVC violet cinnamon hen"
+                 ),
+               ),
+             ),
+             "20140905" => array(
+               "2015 pair" => array(
+                 "DSC01359_zpsafa096c8.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01359_zpsafa096c8.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 10: sky blue cock"
+                 ),
+                 "DSC01357_zps70ae172a.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01357_zps70ae172a.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 7/8: A. yellow face cinnamon cock"
+                 ),
+                 "DSC01355_zpsa5501202.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01355_zpsa5501202.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 3: dark green spangle cinnamon hen"
+                 ),
+                 "DSC01352_zpsdc798c88.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01352_zpsdc798c88.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 8: dark green spangle cinnamon hen"
+                 ),
+                 "DSC01350_zps339215e2.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01350_zps339215e2.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 6: A. yellow face cobalt opaline cinnamon hen"
+                 ),
+                 "DSC01349_zpsdd11da44.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01349_zpsdd11da44.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 6: A. yellow face cobalt opaline cinnamon hen"
+                 ),
+                 "DSC01348_zps0bd7da91.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01348_zps0bd7da91.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 5/6: dark green cinnamon cock"
+                 ),
+                 "DSC01344_zpsc62151dc.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01344_zpsc62151dc.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 5: grey cinnamon hen"
+                 ),
+                 "DSC01339_zps2f0185e9.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01339_zps2f0185e9.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 4: grey green x grey green cinnamon"
+                 ),
+                 "DSC01337_zpsd84fcdd0.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01337_zpsd84fcdd0.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 3: cobalt spangle x cobalt spangle cinnamon"
+                 ),
+                 "DSC01333_zps0fad9cc4.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01333_zps0fad9cc4.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 3: cobalt spangle cinnamon hen"
+                 ),
+                 "DSC01325_zps506c03db.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01325_zps506c03db.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 10: dark green opaline cinnamon spangle cock"
+                 ),
+                 "DSC01321_zps3c88a9b0.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/DSC01321_zps3c88a9b0.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " spare cock cobalt spangle cinnamon"
+                 ),
+               ),
+             ),
+             "20140903" => array(
+               "(344BVDFW)484" => array(
+                 "IMG-20140903-00678_zps7njsiv9i.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG-20140903-00678_zps7njsiv9i.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " cock pair 9"
+                 ),
+               ),
+               "(344BVDFW)..." => array(
+                 "IMG-20140903-00677_zps2jif9ukn.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG-20140903-00677_zps2jif9ukn.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " laternatie brother for pair 9"
+                 ),
+               ),
+             ),
+             "20140902" => array(
+               "Pair" => array(
+                 "IMG-20140902-00666_zpsy89dwycr.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG-20140902-00666_zpsy89dwycr.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 1"
+                 ),
+                 "IMG-20140902-00666_zpsy89dwyc_edit_1409742709050_zps4pkravxw.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG-20140902-00666_zpsy89dwyc_edit_1409742709050_zps4pkravxw.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " 1 cock"
+                 ),
+               ),
+             ),
+             "20140605" => array(
+               "recessive pied" => array(
+                 "grey_rec_pied_zps4b5070de.jpeg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/grey_rec_pied_zps4b5070de.jpeg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " grey cinnamon cock"
+                 ),
+               ),
+             ),
+             "20140529" => array(
+               "(WDGIBVGGC)469" => array(
+                 "IMG-20140529-00638_zps1gvgpwl_edit_1401392480363_zpszd0h4prl.jpg" => array(
+                   "link" => "http://i205.photobucket.com/albums/bb166/schilduil/Exhibition%20Budgerigars/Season%202015%20bred/IMG-20140529-00638_zps1gvgpwl_edit_1401392480363_zpszd0h4prl.jpg",
+                   "width" => 200,
+                   "height" => 200,
+                   "comment" => " cock that didn't make the breeding team."
+                 ),
+               ),
+             ),
+           )
+?>
